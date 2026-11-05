@@ -1,0 +1,13 @@
+polars
+numpy
+pandas
+scikit-learn
+xgboost
+keras
+tensorflow
+optuna
+autogluon
+wandb
+matplotlib
+seaborn
+scipy
